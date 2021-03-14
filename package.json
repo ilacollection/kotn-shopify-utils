@@ -1,6 +1,6 @@
 {
   "name": "kotn-utils",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Generic Resources for Shopify Express projects",
   "main": "index.js",
   "scripts": {
